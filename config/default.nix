@@ -14,5 +14,6 @@
     lazygit
     fzf
     fd
+    xsel
   ];
 }

@@ -88,7 +88,7 @@
     };
 
     dap = {
-      adapters.executables.lldb.command = "${pkgs.lldb}/bin/lldb-vscode";
+      adapters.executables.lldb.command = "${pkgs.lldb}/bin/lldb-dap";
 
       configurations.cpp = [
         {
