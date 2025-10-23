@@ -1,7 +1,7 @@
 {
   imports = [
     ./ai/avante.nix
-    ./ai/copilot.nix
+    #./ai/copilot.nix
     ./ai/codeium.nix
 
     ./completion/blink.nix
